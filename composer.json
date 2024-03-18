@@ -1,0 +1,16 @@
+{
+    "name": "azzam/helloworld",
+    "description": "Belajar Hello World dengan PHP composer",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Azzam\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Azzam"
+        }
+    ],
+    "require": {}
+}
