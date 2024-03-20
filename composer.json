@@ -4,7 +4,7 @@
     "type": "project",
     "autoload": {
         "psr-4": {
-            "Azzam\\": "src/"
+            "Azzam\\HelloWorld": "src/"
         }
     },
     "authors": [
@@ -12,5 +12,7 @@
             "name": "Azzam"
         }
     ],
-    "require": {}
+    "require": {
+        "php": ">=8.2"
+    }
 }

@@ -1,6 +1,6 @@
 <?php
 
-namespace Azzam;
+namespace Azzam\HelloWorld;
 
 class HelloWorld {
     private $name;
