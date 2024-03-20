@@ -12,6 +12,7 @@
             "name": "Azzam"
         }
     ],
+    "license": "MIT",
     "require": {
         "php": ">=8.2"
     }
